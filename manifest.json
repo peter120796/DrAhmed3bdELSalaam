@@ -1,0 +1,17 @@
+{
+  "name": "خطك اليوم · Day Plan",
+  "short_name": "خطك اليوم",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2BA0AA",
+  "theme_color": "#2BA0AA",
+  "description": "خطة التعافي بعد عملية السمنة — فريق دكتور أحمد عبد السلام",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
